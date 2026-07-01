@@ -11,6 +11,8 @@
 
 * Se deberá tomar un screenshot después de cada uno de los pasos que estén indicados con el icono :camera:, mostrando la salida de la consola y el comando introducido. En el caso de herramientas gráficas o de herramientas web, se tomarán las capturas de pantallas de las mismas. 
 
+* Hola
+
 * Una vez terminado el ejercicio:
 	* Cree un .zip de la carpeta local del repositorio. Asegúrese de incluir la carpeta .git.
 	* Cree una carpeta screenshots donde almacenará las capturas de pantalla que las llamará X.Y siendo X el ejercicio e Y el punto en el que esta, por ejemplo A.03
