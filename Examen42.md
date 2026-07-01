@@ -13,6 +13,8 @@
 
 * Hola
 
+* Buenas tardes
+
 * Una vez terminado el ejercicio:
 	* Cree un .zip de la carpeta local del repositorio. Asegúrese de incluir la carpeta .git.
 	* Cree una carpeta screenshots donde almacenará las capturas de pantalla que las llamará X.Y siendo X el ejercicio e Y el punto en el que esta, por ejemplo A.03
